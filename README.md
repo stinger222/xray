@@ -9,3 +9,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/stinger222/xray/main/certs.sh)
 ```
+
+# Generate random string
+```
+openssl rand -base64 32
+```
