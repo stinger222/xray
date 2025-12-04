@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory to store certs
-CERT_DIR="/etc/mycerts"
+CERT_DIR="$HOME/mycerts"
 
 mkdir -p "$CERT_DIR"
 
